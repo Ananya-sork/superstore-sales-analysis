@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This project analyzes retail sales data to evaluate business performance across products, customers, regions, and categories. The analysis identifies sales trends, profitability patterns, and customer purchasing behavior to support data-driven business decisions.
+This project analyzes retail sales data to evaluate business performance across products, customers, regions, and categories. The analysis identifies sales trends and customer purchasing behavior to support data-driven business decisions.
 
 ---
 
 ## Objectives
 
-- Analyze sales and profit performance.
+- Analyze sales performance.
 - Identify top-performing products and categories.
 - Examine regional sales distribution.
 - Evaluate customer purchasing behavior.
@@ -52,7 +52,6 @@ This project analyzes retail sales data to evaluate business performance across 
 ## Key Insights
 
 - Technology generated the highest sales.
-- Certain furniture products contributed to losses despite strong sales.
 - The West region delivered the highest overall sales performance.
 - Corporate and Consumer segments accounted for the majority of revenue.
 
