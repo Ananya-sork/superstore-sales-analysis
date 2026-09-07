@@ -39,7 +39,6 @@ This project analyzes retail sales data to evaluate business performance across 
 ## Dashboard Highlights
 
 - Total Sales
-- Total Profit
 - Orders
 - Regional Performance
 - Category Analysis
